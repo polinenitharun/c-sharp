@@ -1,0 +1,13 @@
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\bin\Debug\netcoreapp3.1\Interface1.exe
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\bin\Debug\netcoreapp3.1\Interface1.deps.json
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\bin\Debug\netcoreapp3.1\Interface1.runtimeconfig.json
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\bin\Debug\netcoreapp3.1\Interface1.runtimeconfig.dev.json
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\bin\Debug\netcoreapp3.1\Interface1.dll
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\bin\Debug\netcoreapp3.1\Interface1.pdb
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\obj\Debug\netcoreapp3.1\Interface1.csprojAssemblyReference.cache
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\obj\Debug\netcoreapp3.1\Interface1.AssemblyInfoInputs.cache
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\obj\Debug\netcoreapp3.1\Interface1.AssemblyInfo.cs
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\obj\Debug\netcoreapp3.1\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\obj\Debug\netcoreapp3.1\Interface1.dll
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\obj\Debug\netcoreapp3.1\Interface1.pdb
+C:\Users\polineni bharath\Desktop\tharun\interface1\src\Interface1\obj\Debug\netcoreapp3.1\Interface1.genruntimeconfig.cache
