@@ -1,0 +1,13 @@
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.exe
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.deps.json
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.runtimeconfig.json
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.runtimeconfig.dev.json
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.dll
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\bin\Debug\netcoreapp3.1\DelegateEvent.pdb
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.csprojAssemblyReference.cache
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.AssemblyInfoInputs.cache
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.AssemblyInfo.cs
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.dll
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.pdb
+C:\Users\polineni bharath\Desktop\tharun\delegateEvent\src\DelegateEvent\obj\Debug\netcoreapp3.1\DelegateEvent.genruntimeconfig.cache
