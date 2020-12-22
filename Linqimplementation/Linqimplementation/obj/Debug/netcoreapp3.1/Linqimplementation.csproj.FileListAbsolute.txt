@@ -1,0 +1,13 @@
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\bin\Debug\netcoreapp3.1\Linqimplementation.exe
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\bin\Debug\netcoreapp3.1\Linqimplementation.deps.json
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\bin\Debug\netcoreapp3.1\Linqimplementation.runtimeconfig.json
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\bin\Debug\netcoreapp3.1\Linqimplementation.runtimeconfig.dev.json
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\bin\Debug\netcoreapp3.1\Linqimplementation.dll
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\bin\Debug\netcoreapp3.1\Linqimplementation.pdb
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\obj\Debug\netcoreapp3.1\Linqimplementation.csprojAssemblyReference.cache
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\obj\Debug\netcoreapp3.1\Linqimplementation.AssemblyInfoInputs.cache
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\obj\Debug\netcoreapp3.1\Linqimplementation.AssemblyInfo.cs
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\obj\Debug\netcoreapp3.1\Linqimplementation.csproj.CoreCompileInputs.cache
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\obj\Debug\netcoreapp3.1\Linqimplementation.dll
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\obj\Debug\netcoreapp3.1\Linqimplementation.pdb
+C:\Users\polineni bharath\desktop\tharun\Linqimplementation\Linqimplementation\obj\Debug\netcoreapp3.1\Linqimplementation.genruntimeconfig.cache
